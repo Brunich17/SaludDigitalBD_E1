@@ -1,0 +1,1001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Ana Vega,59.0,F,Surco,Desconocido,2023-07-28,
+P0002,María Mendoza,18.0,ND,Cercado,Ginecología,2020-09-15,319.37
+P0003,Luis Campos,30.0,O,Desconocido,Desconocido,2025-06-11,
+P0004,Luis Gómez,,M,Surco,Ginecología,2020-06-21,
+P0005,Pedro Gómez,48.0,ND,San Isidro,Traumatología,2022-08-16,
+P0006,Carlos Salazar,41.0,O,Cercado,Ginecología,2024-01-05,185.08
+P0007,Jorge Rojas,13.0,ND,Los Olivos,Desconocido,2024-05-03,252.19
+P0008,María Gómez,54.0,ND,Cercado,Cardiología,2020-02-26,451.77
+P0009,Jorge Gómez,74.0,ND,Surco,Cardiología,2023-01-06,430.16
+P0010,Lucía Gómez,88.0,M,Desconocido,Cardiología,2024-01-27,
+P0011,Jorge Mendoza,34.0,ND,Surco,Ginecología,2021-05-23,426.94
+P0012,Pedro Rojas,86.0,O,Miraflores,Odontología,2025-03-26,37.28
+P0013,Pedro Rojas,,ND,San Isidro,Traumatología,2025-02-23,146.66
+P0014,Carlos López,48.0,ND,SJL,Traumatología,2023-01-23,334.87
+P0015,Rosa Rojas,79.0,O,Miraflores,Ginecología,2025-11-15,121.22
+P0016,Elena Campos,55.0,F,SJL,Desconocido,2020-12-16,411.81
+P0017,Pedro Mendoza,24.0,O,Surco,Traumatología,2020-01-13,379.84
+P0018,José Campos,45.0,ND,Callao,Medicina General,2021-09-15,439.74
+P0019,Ana Rojas,78.0,F,San Isidro,Desconocido,2021-06-05,439.43
+P0020,Ana Mendoza,85.0,F,Los Olivos,Pediatría,2022-08-17,434.04
+P0021,Elena Pérez,13.0,M,Los Olivos,Odontología,2023-09-26,288.02
+P0022,Carlos Mendoza,68.0,M,Miraflores,Cardiología,2020-02-02,69.31
+P0023,María López,25.0,F,Los Olivos,Traumatología,2024-05-24,391.47
+P0024,Jorge Salazar,73.0,O,Callao,Ginecología,2023-01-28,370.19
+P0025,Lucía Torres,54.0,M,Surco,Pediatría,2024-06-05,365.34
+P0026,Rosa Ramírez,72.0,F,Los Olivos,Pediatría,2021-02-03,326.02
+P0027,Pedro Salazar,64.0,F,Desconocido,Traumatología,2021-03-20,65.11
+P0028,Elena Vega,4.0,M,Desconocido,Pediatría,2025-07-06,188.68
+P0029,Pedro López,52.0,F,Cercado,Ginecología,2020-09-25,417.95
+P0030,Carlos Vega,24.0,M,La Molina,Odontología,2020-05-14,60.8
+P0031,Ana Campos,85.0,ND,Los Olivos,Odontología,2020-03-23,259.19
+P0032,Jorge Vega,64.0,ND,San Isidro,Odontología,2024-07-29,
+P0033,Pedro Vega,27.0,O,Los Olivos,Pediatría,2025-11-20,301.58
+P0034,María Gómez,24.0,ND,Desconocido,Ginecología,2022-05-03,470.28
+P0035,Lucía Pérez,45.0,ND,San Isidro,Medicina General,2020-02-23,327.14
+P0036,María Salazar,57.0,F,Desconocido,Traumatología,2023-10-24,237.62
+P0037,Pedro Torres,74.0,M,Callao,Medicina General,2021-01-09,132.0
+P0038,Pedro Pérez,74.0,F,Surco,Odontología,2025-06-01,450.21
+P0039,Carlos Vega,,F,Cercado,Traumatología,2022-03-02,276.93
+P0040,Rosa Mendoza,2.0,F,Desconocido,Desconocido,2025-11-25,463.8
+P0041,José Rojas,90.0,F,Cercado,Traumatología,2024-10-23,413.56
+P0042,Ana Gómez,,O,La Molina,Odontología,2025-08-25,475.02
+P0043,Jorge Gómez,,ND,SJL,Medicina General,2023-01-18,117.82
+P0044,Ana Vega,90.0,M,San Isidro,Desconocido,2020-12-13,78.77
+P0045,Pedro Salazar,78.0,ND,SJL,Ginecología,2024-04-28,
+P0046,Luis Pérez,61.0,F,Surco,Ginecología,2022-09-06,208.52
+P0047,Ana Salazar,36.0,F,Cercado,Traumatología,2024-04-02,369.67
+P0048,María Mendoza,16.0,ND,Miraflores,Pediatría,2023-05-25,389.77
+P0049,Ana Vega,49.0,F,Callao,Desconocido,2022-09-21,56.08
+P0050,José Mendoza,16.0,ND,San Isidro,Desconocido,2024-08-17,94.34
+P0051,Jorge Rojas,,M,Desconocido,Desconocido,2023-08-12,132.18
+P0052,Lucía Pérez,37.0,O,La Molina,Ginecología,2023-12-08,
+P0053,Luis Campos,69.0,M,Callao,Traumatología,2024-05-19,24.95
+P0054,Rosa Ramírez,6.0,ND,Surco,Pediatría,2024-03-22,327.14
+P0055,María Gómez,31.0,ND,Surco,Pediatría,2024-01-22,411.39
+P0056,Pedro Torres,,ND,Callao,Ginecología,2020-04-02,271.54
+P0057,Rosa Mendoza,52.0,O,La Molina,Cardiología,2020-04-21,454.87
+P0058,Ana Mendoza,,O,La Molina,Cardiología,2020-09-22,409.06
+P0059,Lucía Ramírez,20.0,ND,Callao,Odontología,2024-07-28,
+P0060,Jorge Rojas,1.0,F,SJL,Medicina General,2025-06-12,213.49
+P0061,Lucía Torres,13.0,ND,La Molina,Cardiología,2023-09-11,488.62
+P0062,José Pérez,86.0,O,Miraflores,Cardiología,2021-02-02,367.96
+P0063,Ana Vega,,M,La Molina,Odontología,2021-01-04,472.68
+P0064,Rosa Salazar,80.0,F,SJL,Desconocido,2024-01-20,148.3
+P0065,Pedro Torres,49.0,O,Surco,Pediatría,2022-07-07,
+P0066,Ana Salazar,60.0,F,Los Olivos,Traumatología,2021-01-03,
+P0067,Luis Mendoza,75.0,F,Cercado,Desconocido,2021-07-25,108.09
+P0068,Rosa Pérez,82.0,F,Cercado,Ginecología,2023-11-21,400.23
+P0069,Ana Rojas,30.0,M,La Molina,Desconocido,2024-08-06,46.4
+P0070,Jorge Campos,12.0,M,Cercado,Desconocido,2022-03-19,327.31
+P0071,Ana Salazar,1.0,F,SJL,Cardiología,2020-10-10,95.77
+P0072,Rosa Mendoza,52.0,M,Cercado,Pediatría,2021-01-05,68.46
+P0073,Lucía Mendoza,32.0,ND,SJL,Ginecología,2020-07-29,238.54
+P0074,Jorge Gómez,85.0,M,Cercado,Traumatología,2025-10-07,128.29
+P0075,Ana Torres,48.0,ND,Los Olivos,Cardiología,2023-01-24,249.76
+P0076,Carlos Campos,73.0,F,La Molina,Odontología,2023-10-13,86.54
+P0077,Lucía Torres,,F,Desconocido,Pediatría,2020-08-17,457.21
+P0078,Rosa Salazar,31.0,M,Miraflores,Odontología,2023-04-09,
+P0079,María Torres,42.0,ND,Cercado,Odontología,2020-12-17,146.48
+P0080,Jorge Ramírez,2.0,ND,SJL,Desconocido,2022-04-11,455.15
+P0081,Rosa Ramírez,51.0,O,SJL,Desconocido,2025-05-08,22.01
+P0082,Pedro Campos,45.0,F,SJL,Pediatría,2020-08-19,497.88
+P0083,Lucía Vega,,F,San Isidro,Traumatología,2021-09-18,492.13
+P0084,Rosa Pérez,42.0,O,Desconocido,Desconocido,2020-01-19,21.84
+P0085,Carlos Ramírez,79.0,M,SJL,Traumatología,2023-02-12,
+P0086,Rosa Campos,40.0,O,La Molina,Cardiología,2022-02-02,76.91
+P0087,Elena Ramírez,77.0,O,Surco,Traumatología,2020-05-05,87.76
+P0088,Jorge López,60.0,O,Desconocido,Desconocido,2021-03-22,126.33
+P0089,María Rojas,80.0,M,La Molina,Cardiología,2022-05-22,213.84
+P0090,Lucía Pérez,42.0,O,SJL,Pediatría,2021-10-27,200.53
+P0091,Jorge Pérez,78.0,F,Miraflores,Medicina General,2024-09-02,336.6
+P0092,Lucía Campos,35.0,ND,Desconocido,Pediatría,2021-02-26,316.3
+P0093,José Gómez,88.0,F,Miraflores,Desconocido,2020-09-28,112.2
+P0094,Pedro Campos,36.0,F,Surco,Pediatría,2022-05-20,24.47
+P0095,Pedro Pérez,4.0,ND,Desconocido,Desconocido,2020-11-03,48.92
+P0096,José Campos,8.0,ND,San Isidro,Cardiología,2023-10-30,191.26
+P0097,Luis Gómez,56.0,M,La Molina,Ginecología,2023-03-06,142.76
+P0098,Rosa Rojas,6.0,O,Los Olivos,Desconocido,2020-10-09,37.8
+P0099,Elena Ramírez,5.0,M,Surco,Cardiología,2023-11-30,118.62
+P0100,María López,10.0,F,Miraflores,Odontología,2025-12-28,318.39
+P0101,María Campos,83.0,F,Miraflores,Traumatología,2024-03-24,345.92
+P0102,Rosa Rojas,19.0,O,Surco,Medicina General,2022-05-24,29.79
+P0103,Elena López,,ND,Surco,Medicina General,2020-12-23,348.96
+P0104,Elena Torres,87.0,M,Desconocido,Odontología,2024-07-31,76.33
+P0105,Jorge Ramírez,70.0,O,La Molina,Medicina General,2023-07-21,419.0
+P0106,Ana Pérez,21.0,ND,Callao,Desconocido,2021-06-28,486.03
+P0107,Elena Campos,29.0,F,Desconocido,Traumatología,2023-02-07,84.57
+P0108,Jorge Pérez,81.0,ND,Los Olivos,Desconocido,2020-07-08,316.29
+P0109,María Gómez,26.0,M,La Molina,Ginecología,2022-06-27,483.8
+P0110,Lucía Pérez,1.0,ND,Desconocido,Odontología,2024-08-26,422.9
+P0111,María López,46.0,F,SJL,Traumatología,2025-05-26,285.49
+P0112,Rosa Pérez,41.0,M,Callao,Pediatría,2024-09-27,139.9
+P0113,José Campos,74.0,F,Surco,Odontología,2021-12-16,
+P0114,Luis Salazar,31.0,F,La Molina,Ginecología,2022-05-01,
+P0115,Pedro Ramírez,15.0,F,Callao,Pediatría,2022-10-11,435.2
+P0116,Rosa Vega,58.0,ND,La Molina,Ginecología,2024-01-27,58.25
+P0117,Luis Mendoza,2.0,ND,Callao,Cardiología,2025-06-11,473.9
+P0118,Luis Vega,40.0,F,Los Olivos,Desconocido,2023-04-30,397.44
+P0119,Carlos López,78.0,M,Surco,Ginecología,2022-03-04,81.38
+P0120,Carlos Salazar,38.0,ND,La Molina,Ginecología,2021-09-12,431.84
+P0121,Elena Salazar,39.0,M,SJL,Ginecología,2020-02-24,493.52
+P0122,Luis Mendoza,13.0,ND,Los Olivos,Desconocido,2024-09-08,329.39
+P0123,Ana Salazar,48.0,ND,Los Olivos,Pediatría,2020-05-04,177.2
+P0124,Carlos Salazar,8.0,ND,Los Olivos,Desconocido,2022-07-04,332.97
+P0125,Rosa Mendoza,24.0,F,Callao,Medicina General,2024-06-17,482.89
+P0126,Elena Ramírez,1.0,M,San Isidro,Odontología,2021-04-11,495.69
+P0127,María Campos,29.0,O,SJL,Medicina General,2020-06-02,28.46
+P0128,Carlos Vega,31.0,O,SJL,Desconocido,2023-10-25,257.54
+P0129,Jorge Torres,71.0,F,SJL,Desconocido,2022-09-30,49.69
+P0130,Rosa Pérez,87.0,M,Surco,Pediatría,2021-10-26,166.54
+P0131,Elena Vega,55.0,M,La Molina,Medicina General,2023-03-09,290.88
+P0132,Luis Ramírez,61.0,M,Los Olivos,Ginecología,2023-12-06,105.42
+P0133,José Ramírez,38.0,ND,Surco,Traumatología,2022-03-02,488.22
+P0134,Jorge López,,M,Los Olivos,Desconocido,2024-07-26,305.94
+P0135,Carlos Ramírez,60.0,M,Surco,Pediatría,2025-06-23,335.13
+P0136,Pedro Torres,61.0,O,Cercado,Ginecología,2024-09-25,231.92
+P0137,María Torres,8.0,M,Desconocido,Traumatología,2024-06-02,96.23
+P0138,María Vega,68.0,O,La Molina,Pediatría,2024-09-27,207.57
+P0139,Lucía Vega,21.0,M,Surco,Cardiología,2023-02-05,377.76
+P0140,María Torres,52.0,O,La Molina,Pediatría,2024-07-04,261.48
+P0141,Luis Campos,65.0,ND,Callao,Odontología,2025-08-21,395.55
+P0142,María Salazar,80.0,M,San Isidro,Traumatología,2021-08-10,
+P0143,Ana Torres,49.0,F,Callao,Odontología,2024-01-23,203.07
+P0144,Luis Ramírez,51.0,M,San Isidro,Traumatología,2025-09-16,100.53
+P0145,Carlos Torres,47.0,F,Los Olivos,Ginecología,2021-12-12,252.16
+P0146,Jorge Gómez,83.0,O,Los Olivos,Pediatría,2020-12-28,
+P0147,Elena Gómez,,M,Los Olivos,Ginecología,2024-04-02,176.99
+P0148,Jorge Mendoza,46.0,M,Miraflores,Odontología,2020-10-25,414.46
+P0149,José López,58.0,F,Surco,Odontología,2020-03-28,112.8
+P0150,María Ramírez,60.0,ND,Los Olivos,Pediatría,2020-04-13,256.62
+P0151,Carlos Ramírez,82.0,F,SJL,Odontología,2021-10-30,288.74
+P0152,Ana Gómez,61.0,O,Desconocido,Ginecología,2020-05-26,88.0
+P0153,Elena Rojas,56.0,M,San Isidro,Traumatología,2021-11-11,80.34
+P0154,Ana Mendoza,43.0,M,La Molina,Desconocido,2022-03-07,413.39
+P0155,Carlos Salazar,40.0,O,La Molina,Medicina General,2025-05-09,384.16
+P0156,Luis Torres,61.0,M,Callao,Traumatología,2021-08-22,58.86
+P0157,Elena Pérez,63.0,M,Cercado,Pediatría,2022-05-22,
+P0158,María Pérez,66.0,ND,La Molina,Medicina General,2022-03-03,203.89
+P0159,Ana Salazar,16.0,F,La Molina,Traumatología,2024-10-25,206.98
+P0160,Lucía Campos,34.0,O,Miraflores,Medicina General,2025-01-22,124.23
+P0161,Lucía Rojas,85.0,O,Los Olivos,Cardiología,2021-09-10,64.88
+P0162,Pedro Campos,84.0,M,Los Olivos,Ginecología,2023-03-12,
+P0163,Elena Salazar,70.0,F,Surco,Pediatría,2022-06-04,439.44
+P0164,Luis Ramírez,3.0,F,Los Olivos,Ginecología,2025-10-07,423.4
+P0165,Jorge Pérez,28.0,F,Miraflores,Medicina General,2020-05-04,115.62
+P0166,Elena López,79.0,O,Surco,Ginecología,2020-12-09,101.5
+P0167,Carlos Mendoza,86.0,O,Cercado,Desconocido,2024-06-02,244.03
+P0168,Pedro Rojas,49.0,F,Cercado,Desconocido,2023-05-10,187.01
+P0169,Lucía Gómez,16.0,M,Los Olivos,Desconocido,2022-02-21,366.83
+P0170,Elena Pérez,80.0,M,Miraflores,Traumatología,2025-11-05,161.08
+P0171,Pedro Pérez,59.0,M,San Isidro,Desconocido,2021-02-16,236.67
+P0172,María Salazar,64.0,F,San Isidro,Ginecología,2023-12-19,65.53
+P0173,José Pérez,77.0,ND,SJL,Ginecología,2023-07-07,90.91
+P0174,María Vega,28.0,O,La Molina,Desconocido,2022-08-09,191.37
+P0175,Luis Vega,61.0,M,Callao,Medicina General,2024-10-08,382.2
+P0176,Pedro López,35.0,F,La Molina,Medicina General,2021-01-29,20.67
+P0177,Jorge Rojas,49.0,O,SJL,Cardiología,2025-08-28,499.66
+P0178,Pedro Ramírez,55.0,M,Cercado,Medicina General,2022-09-19,344.4
+P0179,Elena Torres,6.0,ND,La Molina,Pediatría,2020-12-14,85.27
+P0180,Ana Pérez,64.0,F,SJL,Cardiología,2025-02-07,107.21
+P0181,María Mendoza,19.0,O,Surco,Ginecología,2021-02-19,291.37
+P0182,Lucía Salazar,,O,Miraflores,Odontología,2023-11-13,322.89
+P0183,Ana Mendoza,,F,Miraflores,Traumatología,2025-03-09,99.69
+P0184,José Salazar,88.0,M,Callao,Pediatría,2020-09-26,304.98
+P0185,Carlos Rojas,64.0,O,Los Olivos,Odontología,2022-02-23,
+P0186,Lucía Pérez,79.0,ND,Surco,Cardiología,2022-12-04,34.43
+P0187,Luis Gómez,64.0,O,San Isidro,Traumatología,2024-09-01,494.0
+P0188,Jorge Rojas,64.0,F,Los Olivos,Odontología,2020-08-20,375.22
+P0189,Luis Ramírez,27.0,F,Desconocido,Desconocido,2021-03-23,335.46
+P0190,Lucía Gómez,66.0,O,Callao,Traumatología,2021-11-30,334.92
+P0191,Carlos López,45.0,ND,Cercado,Desconocido,2020-06-21,227.61
+P0192,Rosa Pérez,,O,Cercado,Pediatría,2021-12-21,222.02
+P0193,Jorge Rojas,11.0,ND,Desconocido,Medicina General,2020-08-23,271.36
+P0194,Lucía Ramírez,56.0,M,Los Olivos,Medicina General,2021-11-17,221.34
+P0195,Elena Ramírez,11.0,M,Desconocido,Traumatología,2023-02-16,208.88
+P0196,María Gómez,31.0,ND,Cercado,Desconocido,2024-01-20,449.31
+P0197,Lucía Vega,12.0,M,La Molina,Cardiología,2025-06-29,
+P0198,Carlos Gómez,27.0,ND,Los Olivos,Odontología,2024-03-25,466.41
+P0199,Lucía Salazar,90.0,O,Los Olivos,Ginecología,2024-01-09,93.24
+P0200,Luis López,89.0,M,Surco,Ginecología,2020-03-19,363.79
+P0201,María Gómez,41.0,F,Cercado,Odontología,2023-04-17,442.87
+P0202,Luis Rojas,62.0,O,La Molina,Desconocido,2020-12-23,
+P0203,Pedro Pérez,80.0,O,Surco,Desconocido,2021-02-14,432.94
+P0204,Rosa Mendoza,21.0,O,Cercado,Medicina General,2024-01-19,173.85
+P0205,José Ramírez,20.0,O,Cercado,Traumatología,2022-07-16,456.79
+P0206,José Pérez,41.0,ND,Cercado,Odontología,2024-04-29,167.73
+P0207,Jorge Vega,33.0,ND,Callao,Medicina General,2024-02-19,235.53
+P0208,Jorge Torres,32.0,ND,Desconocido,Medicina General,2020-05-06,128.18
+P0209,Ana Salazar,61.0,M,Miraflores,Traumatología,2022-07-12,25.68
+P0210,Elena Salazar,89.0,ND,Cercado,Ginecología,2025-10-12,367.19
+P0211,Carlos Salazar,42.0,M,Cercado,Odontología,2020-01-02,393.85
+P0212,Lucía Vega,66.0,F,Surco,Traumatología,2024-09-30,204.84
+P0213,Elena Vega,74.0,F,Surco,Odontología,2024-07-16,436.92
+P0214,Pedro Rojas,24.0,ND,Cercado,Odontología,2024-03-14,460.06
+P0215,José López,,O,SJL,Ginecología,2021-05-04,
+P0216,Elena Vega,89.0,ND,Cercado,Traumatología,2025-01-06,
+P0217,Luis Gómez,13.0,ND,SJL,Medicina General,2022-04-10,
+P0218,Elena Rojas,65.0,O,Los Olivos,Pediatría,2021-04-24,340.68
+P0219,Carlos Gómez,6.0,F,Callao,Pediatría,2024-02-01,284.67
+P0220,Elena Vega,83.0,F,Desconocido,Desconocido,2022-01-16,388.56
+P0221,Carlos López,74.0,M,San Isidro,Ginecología,2025-02-05,87.42
+P0222,Jorge Rojas,69.0,M,Callao,Cardiología,2025-05-28,117.43
+P0223,Lucía Gómez,,ND,San Isidro,Cardiología,2024-12-02,460.85
+P0224,Elena Vega,21.0,M,Miraflores,Desconocido,2022-05-30,187.03
+P0225,José Rojas,72.0,O,Cercado,Medicina General,2022-06-14,411.97
+P0226,Rosa López,29.0,ND,Miraflores,Odontología,2025-06-01,34.04
+P0227,José Torres,62.0,ND,Callao,Medicina General,2023-04-27,486.94
+P0228,Carlos Ramírez,80.0,F,Miraflores,Desconocido,2025-04-11,385.86
+P0229,Lucía Ramírez,50.0,O,Callao,Desconocido,2022-05-04,371.51
+P0230,María López,67.0,ND,Surco,Traumatología,2023-06-01,
+P0231,Ana Mendoza,56.0,F,Callao,Cardiología,2021-09-25,207.28
+P0232,Carlos Ramírez,53.0,O,SJL,Cardiología,2020-04-20,55.05
+P0233,Ana López,70.0,O,La Molina,Traumatología,2021-02-07,352.24
+P0234,José Rojas,4.0,O,Desconocido,Cardiología,2023-09-19,125.29
+P0235,Carlos Vega,44.0,ND,Los Olivos,Desconocido,2024-02-06,108.02
+P0236,Jorge Torres,31.0,ND,Callao,Ginecología,2025-06-22,32.76
+P0237,Carlos Salazar,59.0,M,Surco,Odontología,2024-08-05,164.43
+P0238,Lucía Torres,85.0,O,Cercado,Desconocido,2024-03-02,34.48
+P0239,Jorge Gómez,35.0,M,Los Olivos,Medicina General,2023-04-02,
+P0240,Jorge Salazar,41.0,O,Los Olivos,Traumatología,2023-08-20,257.96
+P0241,Ana Rojas,82.0,F,Miraflores,Odontología,2025-07-06,266.34
+P0242,Carlos Rojas,36.0,M,Surco,Traumatología,2021-10-25,43.44
+P0243,Carlos Vega,87.0,O,Cercado,Traumatología,2024-07-27,485.13
+P0244,María Torres,32.0,O,SJL,Odontología,2023-11-05,260.72
+P0245,Carlos Torres,47.0,F,Desconocido,Ginecología,2025-08-23,149.86
+P0246,Carlos Pérez,50.0,M,Los Olivos,Traumatología,2021-10-03,221.0
+P0247,Elena Gómez,76.0,O,Desconocido,Medicina General,2025-05-09,144.16
+P0248,Rosa Ramírez,39.0,F,Surco,Ginecología,2020-01-24,488.61
+P0249,Jorge Rojas,4.0,ND,San Isidro,Ginecología,2021-01-29,75.34
+P0250,Elena Mendoza,21.0,M,Miraflores,Cardiología,2022-09-20,242.07
+P0251,José Ramírez,31.0,M,Los Olivos,Traumatología,2022-09-05,71.47
+P0252,Ana Salazar,13.0,ND,La Molina,Desconocido,2024-01-07,183.81
+P0253,Pedro Torres,50.0,F,San Isidro,Cardiología,2021-09-15,226.12
+P0254,José Vega,,F,Surco,Medicina General,2025-07-02,477.19
+P0255,Luis Campos,3.0,M,La Molina,Desconocido,2023-03-10,88.9
+P0256,Jorge Campos,37.0,ND,SJL,Pediatría,2021-08-15,390.34
+P0257,Rosa Gómez,79.0,O,Cercado,Traumatología,2025-05-17,
+P0258,Carlos Torres,23.0,O,Desconocido,Traumatología,2021-06-18,217.17
+P0259,Rosa Pérez,17.0,ND,Callao,Traumatología,2021-02-06,198.82
+P0260,José Vega,72.0,ND,La Molina,Desconocido,2022-10-17,238.32
+P0261,Carlos Salazar,88.0,F,Los Olivos,Ginecología,2021-10-25,448.55
+P0262,Jorge Salazar,31.0,ND,Callao,Medicina General,2020-02-23,
+P0263,José Salazar,,M,San Isidro,Cardiología,2021-08-17,298.7
+P0264,Lucía Mendoza,21.0,M,Cercado,Odontología,2023-08-29,116.6
+P0265,Elena Mendoza,57.0,O,SJL,Ginecología,2023-06-24,262.08
+P0266,Jorge López,28.0,O,Callao,Traumatología,2020-04-15,325.53
+P0267,María Vega,,ND,Surco,Desconocido,2025-08-13,394.07
+P0268,Elena Pérez,23.0,O,Cercado,Medicina General,2021-11-30,407.04
+P0269,Lucía Ramírez,31.0,ND,Desconocido,Ginecología,2024-04-02,
+P0270,Ana Torres,53.0,O,Los Olivos,Medicina General,2020-05-22,459.69
+P0271,María Torres,62.0,ND,Miraflores,Ginecología,2022-10-12,240.33
+P0272,Luis Torres,49.0,ND,Miraflores,Odontología,2020-07-06,455.01
+P0273,María Salazar,24.0,M,SJL,Desconocido,2021-02-10,387.47
+P0274,Ana Vega,63.0,F,Desconocido,Pediatría,2023-11-19,287.86
+P0275,Lucía Ramírez,9.0,M,Miraflores,Cardiología,2024-05-26,33.43
+P0276,Elena Ramírez,,F,Los Olivos,Desconocido,2022-03-19,236.6
+P0277,Ana Rojas,46.0,M,Los Olivos,Pediatría,2025-04-05,196.99
+P0278,Lucía Rojas,,O,San Isidro,Cardiología,2024-04-17,112.38
+P0279,Elena Gómez,17.0,O,Desconocido,Cardiología,2020-06-20,24.98
+P0280,Luis Campos,,O,La Molina,Ginecología,2025-08-27,384.34
+P0281,Pedro Ramírez,71.0,F,Miraflores,Desconocido,2022-09-04,407.83
+P0282,María Mendoza,65.0,O,San Isidro,Traumatología,2025-03-02,355.55
+P0283,Elena Pérez,1.0,F,Callao,Ginecología,2024-04-28,466.44
+P0284,Lucía Gómez,46.0,M,Surco,Pediatría,2023-08-11,363.18
+P0285,Jorge Campos,39.0,M,La Molina,Odontología,2024-02-02,82.5
+P0286,Rosa López,88.0,F,SJL,Cardiología,2022-07-04,319.26
+P0287,Ana Mendoza,30.0,ND,Miraflores,Medicina General,2021-12-16,
+P0288,Lucía Torres,24.0,O,La Molina,Cardiología,2021-02-08,331.94
+P0289,Pedro Campos,43.0,ND,SJL,Cardiología,2025-04-29,291.66
+P0290,Rosa Campos,38.0,ND,Callao,Desconocido,2022-07-24,467.4
+P0291,Jorge Vega,35.0,ND,San Isidro,Cardiología,2023-11-08,20.69
+P0292,José Mendoza,8.0,M,Callao,Ginecología,2022-01-07,
+P0293,Rosa Ramírez,70.0,M,Desconocido,Pediatría,2024-08-16,324.07
+P0294,Rosa Campos,16.0,F,Desconocido,Odontología,2025-04-10,198.32
+P0295,Jorge Pérez,61.0,F,Callao,Odontología,2025-10-19,
+P0296,Jorge Salazar,55.0,M,Cercado,Traumatología,2023-01-28,107.99
+P0297,Luis Torres,52.0,O,San Isidro,Ginecología,2025-01-30,116.65
+P0298,Lucía Ramírez,64.0,ND,Miraflores,Medicina General,2022-11-07,109.95
+P0299,Carlos Pérez,,ND,Miraflores,Traumatología,2021-04-05,
+P0300,Ana López,73.0,F,Surco,Medicina General,2024-01-29,347.02
+P0301,Lucía Rojas,71.0,O,SJL,Ginecología,2020-10-29,378.46
+P0302,Rosa Vega,80.0,F,Cercado,Pediatría,2020-06-13,269.17
+P0303,Luis Campos,,M,Los Olivos,Traumatología,2024-12-03,244.62
+P0304,José Campos,,M,Los Olivos,Desconocido,2023-09-17,149.43
+P0305,José López,28.0,O,Surco,Desconocido,2021-02-24,53.55
+P0306,María Gómez,,O,Desconocido,Pediatría,2023-05-02,105.08
+P0307,Luis Vega,23.0,F,Surco,Pediatría,2025-03-02,357.76
+P0308,María Torres,67.0,M,San Isidro,Ginecología,2024-01-18,259.83
+P0309,Luis Campos,67.0,O,Miraflores,Cardiología,2024-10-24,58.8
+P0310,Carlos Gómez,,O,San Isidro,Cardiología,2025-05-23,83.73
+P0311,Luis Campos,22.0,M,Desconocido,Pediatría,2024-08-02,37.74
+P0312,María López,74.0,F,San Isidro,Pediatría,2020-01-10,60.83
+P0313,Ana Ramírez,22.0,O,San Isidro,Medicina General,2024-12-24,
+P0314,José Gómez,83.0,F,La Molina,Cardiología,2021-01-26,253.17
+P0315,Rosa Salazar,36.0,M,Surco,Pediatría,2023-02-06,460.22
+P0316,Lucía Gómez,68.0,F,SJL,Odontología,2024-09-26,340.12
+P0317,Rosa Pérez,10.0,M,Cercado,Traumatología,2025-09-03,269.75
+P0318,Luis Salazar,83.0,O,Desconocido,Desconocido,2021-10-04,248.78
+P0319,Elena Vega,54.0,F,La Molina,Pediatría,2024-04-21,398.81
+P0320,Pedro Ramírez,46.0,M,SJL,Traumatología,2024-08-25,108.03
+P0321,Ana Campos,10.0,F,Callao,Odontología,2021-01-24,140.54
+P0322,Ana López,45.0,ND,Miraflores,Traumatología,2020-03-05,31.36
+P0323,José Salazar,,F,La Molina,Desconocido,2023-01-02,471.15
+P0324,José Gómez,6.0,ND,San Isidro,Desconocido,2020-08-28,434.87
+P0325,Jorge Salazar,62.0,O,Desconocido,Cardiología,2025-07-08,269.13
+P0326,Pedro Pérez,6.0,M,Cercado,Pediatría,2021-02-02,58.68
+P0327,Jorge López,28.0,ND,San Isidro,Traumatología,2024-01-30,61.96
+P0328,María López,,O,Miraflores,Desconocido,2025-01-17,
+P0329,Luis Salazar,77.0,M,Miraflores,Medicina General,2025-05-23,224.16
+P0330,Pedro Campos,62.0,O,Miraflores,Pediatría,2021-12-21,164.57
+P0331,Lucía Gómez,11.0,O,San Isidro,Desconocido,2025-06-13,206.19
+P0332,Rosa Salazar,58.0,O,SJL,Medicina General,2021-09-18,410.2
+P0333,Rosa Pérez,49.0,F,Surco,Medicina General,2022-04-02,307.19
+P0334,José Gómez,56.0,F,Surco,Odontología,2025-10-02,142.59
+P0335,Elena Rojas,33.0,O,SJL,Ginecología,2021-08-30,245.68
+P0336,Jorge Vega,39.0,ND,Desconocido,Traumatología,2021-04-21,432.86
+P0337,Lucía Ramírez,62.0,F,Los Olivos,Traumatología,2021-02-01,151.3
+P0338,Elena Rojas,1.0,ND,Surco,Pediatría,2023-05-09,
+P0339,María Pérez,44.0,O,Cercado,Traumatología,2023-05-08,494.17
+P0340,Lucía Pérez,,O,La Molina,Pediatría,2024-07-25,296.99
+P0341,Elena Campos,72.0,ND,Callao,Medicina General,2022-01-20,430.44
+P0342,María Pérez,80.0,M,Surco,Odontología,2025-12-06,394.56
+P0343,Rosa Gómez,13.0,O,Surco,Desconocido,2023-03-05,385.5
+P0344,Carlos López,18.0,M,Callao,Traumatología,2023-12-19,405.16
+P0345,Carlos Gómez,67.0,O,Callao,Pediatría,2024-02-04,255.8
+P0346,Jorge Vega,19.0,O,Miraflores,Ginecología,2024-08-01,151.4
+P0347,Jorge Torres,69.0,M,La Molina,Traumatología,2023-12-11,158.14
+P0348,José Pérez,75.0,ND,Callao,Cardiología,2025-06-21,392.53
+P0349,José Campos,74.0,O,Los Olivos,Odontología,2024-10-20,484.79
+P0350,Carlos Torres,55.0,O,SJL,Ginecología,2024-12-07,146.85
+P0351,Ana Salazar,87.0,O,Cercado,Medicina General,2020-03-19,312.94
+P0352,Elena Mendoza,,F,Surco,Medicina General,2020-12-20,86.2
+P0353,Elena López,4.0,M,Cercado,Medicina General,2020-04-03,232.8
+P0354,María Pérez,4.0,F,San Isidro,Cardiología,2025-10-16,388.49
+P0355,José Rojas,14.0,F,Los Olivos,Pediatría,2025-09-20,422.71
+P0356,Elena Ramírez,51.0,F,La Molina,Traumatología,2023-03-25,393.9
+P0357,Luis Campos,40.0,M,Cercado,Ginecología,2020-02-27,160.5
+P0358,María Pérez,39.0,ND,La Molina,Cardiología,2025-07-19,55.63
+P0359,María Gómez,17.0,ND,Callao,Cardiología,2023-09-14,252.17
+P0360,Lucía Pérez,48.0,F,San Isidro,Ginecología,2024-02-01,463.07
+P0361,Jorge Vega,69.0,F,Surco,Ginecología,2023-02-18,379.84
+P0362,Ana Salazar,2.0,M,Miraflores,Ginecología,2020-02-29,285.49
+P0363,Ana Campos,45.0,F,San Isidro,Traumatología,2023-05-29,327.69
+P0364,Elena Vega,,ND,Callao,Ginecología,2024-06-25,461.82
+P0365,Carlos Torres,79.0,M,Los Olivos,Odontología,2025-12-18,305.12
+P0366,José Pérez,7.0,F,Cercado,Medicina General,2021-09-26,33.78
+P0367,Jorge Vega,56.0,ND,Los Olivos,Ginecología,2022-11-20,391.25
+P0368,Ana Campos,8.0,O,Callao,Ginecología,2022-06-19,
+P0369,María Pérez,9.0,ND,La Molina,Desconocido,2023-11-21,183.18
+P0370,Ana Mendoza,76.0,F,Surco,Desconocido,2024-12-17,412.44
+P0371,Ana Torres,66.0,O,Los Olivos,Desconocido,2023-07-11,497.71
+P0372,Carlos Torres,40.0,M,Los Olivos,Odontología,2022-12-22,122.44
+P0373,Jorge Mendoza,83.0,ND,Callao,Traumatología,2022-10-11,119.66
+P0374,Jorge Ramírez,87.0,F,San Isidro,Pediatría,2025-12-10,122.08
+P0375,Lucía Mendoza,7.0,ND,Miraflores,Traumatología,2024-08-26,37.4
+P0376,Pedro Salazar,79.0,M,Miraflores,Medicina General,2022-01-22,300.94
+P0377,Rosa Pérez,81.0,ND,La Molina,Pediatría,2021-11-16,229.29
+P0378,Luis Campos,51.0,O,Cercado,Ginecología,2025-09-11,
+P0379,Carlos Vega,79.0,M,Los Olivos,Medicina General,2022-10-20,
+P0380,Lucía Mendoza,90.0,O,San Isidro,Desconocido,2025-12-02,117.8
+P0381,Lucía Rojas,,F,Miraflores,Odontología,2023-10-10,243.91
+P0382,María Pérez,53.0,M,Desconocido,Pediatría,2023-10-02,405.54
+P0383,José López,19.0,ND,Surco,Ginecología,2020-10-13,222.11
+P0384,María Torres,,F,SJL,Traumatología,2023-07-29,43.52
+P0385,María Campos,24.0,M,Los Olivos,Odontología,2022-09-03,102.12
+P0386,Elena Campos,10.0,M,San Isidro,Medicina General,2020-01-08,240.68
+P0387,Ana Vega,,O,SJL,Cardiología,2023-04-07,100.65
+P0388,Carlos López,34.0,F,San Isidro,Traumatología,2024-03-04,274.44
+P0389,Pedro López,84.0,M,Surco,Pediatría,2024-11-26,136.69
+P0390,Ana Campos,63.0,M,San Isidro,Medicina General,2023-10-20,191.42
+P0391,José Salazar,86.0,ND,SJL,Desconocido,2020-10-06,57.55
+P0392,Carlos Campos,57.0,ND,Cercado,Traumatología,2023-11-19,
+P0393,Elena López,56.0,ND,Callao,Pediatría,2020-03-08,258.97
+P0394,Lucía Ramírez,70.0,F,La Molina,Traumatología,2020-02-23,139.94
+P0395,Elena Ramírez,20.0,M,Callao,Cardiología,2021-04-17,101.21
+P0396,José Rojas,21.0,ND,Los Olivos,Odontología,2022-12-26,496.05
+P0397,Rosa Rojas,,ND,Callao,Desconocido,2024-07-01,363.8
+P0398,Jorge Ramírez,32.0,O,La Molina,Cardiología,2023-09-15,402.48
+P0399,María Rojas,,M,Desconocido,Desconocido,2023-03-16,480.03
+P0400,Pedro Ramírez,22.0,M,Los Olivos,Traumatología,2022-06-03,237.13
+P0401,Ana Salazar,39.0,M,Miraflores,Ginecología,2023-01-17,63.94
+P0402,Lucía Gómez,,ND,Callao,Cardiología,2021-05-31,138.32
+P0403,Carlos Ramírez,33.0,F,SJL,Desconocido,2024-11-13,165.81
+P0404,María López,66.0,ND,San Isidro,Traumatología,2025-11-08,492.56
+P0405,José Vega,,ND,SJL,Cardiología,2023-08-24,49.96
+P0406,José Pérez,67.0,ND,La Molina,Desconocido,2023-05-31,115.37
+P0407,Luis Rojas,86.0,ND,La Molina,Desconocido,2022-04-23,360.49
+P0408,José Campos,64.0,M,Miraflores,Traumatología,2025-10-28,214.31
+P0409,Luis Mendoza,86.0,F,Desconocido,Cardiología,2022-01-27,401.52
+P0410,Jorge Rojas,37.0,ND,La Molina,Pediatría,2022-07-18,479.92
+P0411,María Mendoza,24.0,O,Los Olivos,Traumatología,2022-12-14,485.6
+P0412,Elena López,90.0,ND,Desconocido,Odontología,2023-03-03,240.61
+P0413,Ana Salazar,82.0,M,Callao,Cardiología,2024-08-01,320.17
+P0414,Pedro Vega,34.0,M,San Isidro,Pediatría,2024-03-10,407.15
+P0415,Lucía Ramírez,16.0,M,Desconocido,Cardiología,2025-06-09,278.66
+P0416,Ana Mendoza,51.0,F,Desconocido,Desconocido,2022-08-02,470.24
+P0417,José Ramírez,9.0,ND,Callao,Cardiología,2025-08-04,303.38
+P0418,Pedro Salazar,34.0,M,San Isidro,Cardiología,2024-01-06,288.47
+P0419,Carlos Gómez,24.0,M,San Isidro,Traumatología,2022-02-18,459.92
+P0420,Carlos Torres,,O,Callao,Pediatría,2024-11-17,193.76
+P0421,Luis Mendoza,21.0,F,Los Olivos,Traumatología,2021-05-28,425.53
+P0422,Ana Gómez,73.0,F,Surco,Odontología,2023-05-19,98.33
+P0423,Pedro Vega,33.0,O,Cercado,Ginecología,2024-06-13,493.91
+P0424,Carlos Torres,45.0,O,San Isidro,Ginecología,2021-04-01,222.11
+P0425,Luis Vega,9.0,M,Desconocido,Odontología,2021-07-16,86.62
+P0426,Lucía López,16.0,ND,Surco,Odontología,2023-04-14,248.36
+P0427,Carlos Ramírez,18.0,ND,Surco,Desconocido,2023-09-27,485.64
+P0428,María Ramírez,58.0,M,Desconocido,Desconocido,2021-12-02,98.98
+P0429,José Salazar,54.0,O,Los Olivos,Traumatología,2022-10-22,79.18
+P0430,José Vega,78.0,F,Desconocido,Cardiología,2023-03-10,
+P0431,Jorge Mendoza,6.0,M,SJL,Odontología,2024-07-24,238.95
+P0432,Jorge Torres,34.0,ND,Cercado,Ginecología,2023-08-21,457.94
+P0433,Lucía Mendoza,,ND,SJL,Ginecología,2025-06-23,95.34
+P0434,Carlos Mendoza,70.0,M,Callao,Cardiología,2023-11-30,218.91
+P0435,Lucía Rojas,74.0,M,Los Olivos,Desconocido,2021-01-20,98.47
+P0436,Carlos Ramírez,64.0,O,San Isidro,Pediatría,2024-07-12,
+P0437,Jorge Torres,27.0,O,San Isidro,Desconocido,2020-05-08,367.34
+P0438,Carlos Torres,51.0,F,Desconocido,Odontología,2024-04-03,248.98
+P0439,Carlos Torres,89.0,F,SJL,Desconocido,2025-12-11,102.04
+P0440,Luis Mendoza,54.0,ND,Callao,Odontología,2023-12-16,
+P0441,Carlos Mendoza,70.0,O,Cercado,Pediatría,2020-05-26,465.56
+P0442,José Gómez,54.0,O,Callao,Odontología,2021-12-10,260.93
+P0443,Ana Salazar,64.0,M,San Isidro,Cardiología,2023-01-23,
+P0444,María Ramírez,15.0,O,Miraflores,Pediatría,2021-10-22,188.43
+P0445,Elena Campos,75.0,O,Miraflores,Odontología,2021-06-12,387.05
+P0446,María Campos,31.0,O,Cercado,Traumatología,2021-10-28,496.82
+P0447,Pedro Salazar,76.0,M,Desconocido,Odontología,2022-11-30,221.29
+P0448,Luis Salazar,38.0,M,Miraflores,Pediatría,2022-05-16,396.68
+P0449,Jorge Gómez,24.0,F,Miraflores,Desconocido,2025-04-17,127.87
+P0450,Jorge Ramírez,11.0,F,Miraflores,Cardiología,2025-01-17,417.57
+P0451,Carlos Salazar,89.0,O,SJL,Pediatría,2020-11-06,355.93
+P0452,María Mendoza,49.0,ND,Miraflores,Odontología,2023-03-17,185.59
+P0453,Jorge Gómez,71.0,ND,San Isidro,Traumatología,2024-04-21,
+P0454,José Salazar,48.0,F,Callao,Ginecología,2025-05-19,90.4
+P0455,Jorge Gómez,72.0,ND,Desconocido,Traumatología,2020-03-05,
+P0456,Lucía Rojas,27.0,ND,Cercado,Pediatría,2022-08-19,167.38
+P0457,María Rojas,71.0,O,Desconocido,Medicina General,2022-03-23,37.62
+P0458,Elena Gómez,46.0,ND,Callao,Medicina General,2023-07-23,227.59
+P0459,Pedro Pérez,14.0,ND,Callao,Pediatría,2023-08-17,139.65
+P0460,Lucía Ramírez,85.0,O,San Isidro,Medicina General,2024-12-12,449.34
+P0461,Jorge Gómez,82.0,ND,San Isidro,Desconocido,2023-08-17,
+P0462,María Campos,19.0,O,La Molina,Desconocido,2024-01-03,233.04
+P0463,Rosa Torres,12.0,O,San Isidro,Ginecología,2022-07-30,249.8
+P0464,Carlos Torres,61.0,M,Cercado,Desconocido,2021-10-30,300.34
+P0465,Luis Gómez,9.0,F,Callao,Cardiología,2024-02-21,50.85
+P0466,Carlos Pérez,71.0,M,Desconocido,Medicina General,2022-08-02,120.81
+P0467,José Mendoza,75.0,O,Miraflores,Traumatología,2023-03-30,134.27
+P0468,María Rojas,33.0,ND,Desconocido,Odontología,2022-02-27,
+P0469,María Vega,,O,San Isidro,Ginecología,2020-06-20,464.16
+P0470,Rosa Mendoza,8.0,M,SJL,Pediatría,2020-02-15,33.06
+P0471,Jorge Rojas,58.0,M,Miraflores,Ginecología,2024-09-17,169.8
+P0472,Lucía López,,ND,Surco,Pediatría,2022-05-18,109.89
+P0473,Pedro López,16.0,F,Desconocido,Medicina General,2022-06-08,115.12
+P0474,José Mendoza,52.0,M,Desconocido,Medicina General,2023-10-05,301.17
+P0475,Luis Torres,,ND,Callao,Ginecología,2025-03-03,439.02
+P0476,María Mendoza,40.0,F,San Isidro,Traumatología,2022-12-28,349.63
+P0477,Rosa López,22.0,ND,SJL,Pediatría,2020-01-22,409.77
+P0478,Elena Rojas,79.0,M,Surco,Cardiología,2023-02-11,
+P0479,Luis Gómez,23.0,ND,Desconocido,Medicina General,2021-03-23,268.53
+P0480,Pedro Mendoza,41.0,M,La Molina,Cardiología,2021-08-16,83.64
+P0481,Ana Salazar,26.0,M,Callao,Cardiología,2024-06-19,
+P0482,Rosa López,85.0,F,Callao,Ginecología,2023-04-09,23.26
+P0483,María López,58.0,ND,Cercado,Desconocido,2021-05-15,401.39
+P0484,Carlos López,33.0,M,Miraflores,Cardiología,2025-09-09,121.75
+P0485,Lucía Campos,79.0,F,Desconocido,Odontología,2024-02-16,218.72
+P0486,Pedro Rojas,1.0,M,Surco,Ginecología,2025-04-27,56.35
+P0487,Elena Mendoza,10.0,M,Callao,Medicina General,2021-11-08,384.0
+P0488,María Gómez,5.0,F,Desconocido,Pediatría,2025-02-05,201.17
+P0489,Jorge Campos,31.0,O,Cercado,Cardiología,2025-01-07,35.69
+P0490,José Campos,35.0,O,Callao,Pediatría,2021-10-19,258.96
+P0491,Lucía Campos,5.0,ND,La Molina,Ginecología,2021-12-13,241.88
+P0492,Lucía Pérez,31.0,M,La Molina,Cardiología,2023-03-08,
+P0493,Luis Mendoza,5.0,O,San Isidro,Odontología,2024-01-19,208.46
+P0494,Carlos López,63.0,F,Miraflores,Ginecología,2024-04-18,194.94
+P0495,Lucía Campos,52.0,O,Miraflores,Pediatría,2022-12-18,455.69
+P0496,Ana Ramírez,35.0,O,Cercado,Traumatología,2023-05-10,98.26
+P0497,Ana Campos,60.0,M,SJL,Ginecología,2020-01-16,228.44
+P0498,Ana López,87.0,F,Surco,Ginecología,2024-02-02,165.91
+P0499,Lucía Campos,8.0,M,Los Olivos,Cardiología,2021-09-21,92.36
+P0500,Luis Rojas,,ND,La Molina,Desconocido,2020-05-11,344.4
+P0501,Ana Gómez,48.0,O,La Molina,Traumatología,2020-10-12,343.28
+P0502,Ana Mendoza,23.0,M,Desconocido,Odontología,2023-09-09,202.06
+P0503,María Ramírez,21.0,F,La Molina,Odontología,2021-12-27,261.11
+P0504,Pedro Ramírez,69.0,F,Miraflores,Desconocido,2021-12-30,307.2
+P0505,Pedro Salazar,46.0,F,Miraflores,Ginecología,2023-09-02,490.73
+P0506,José Torres,73.0,ND,Surco,Traumatología,2024-01-24,323.49
+P0507,José Ramírez,86.0,F,La Molina,Cardiología,2025-05-24,58.63
+P0508,Pedro Torres,2.0,O,Cercado,Medicina General,2024-08-20,79.92
+P0509,Rosa López,44.0,O,Callao,Pediatría,2022-12-05,205.45
+P0510,Lucía Campos,,M,Surco,Cardiología,2024-06-05,449.22
+P0511,Luis Vega,41.0,O,Desconocido,Traumatología,2025-05-16,
+P0512,Lucía López,16.0,F,La Molina,Cardiología,2022-10-12,
+P0513,Rosa Torres,23.0,O,Surco,Pediatría,2025-09-24,476.54
+P0514,José Rojas,,O,Cercado,Ginecología,2022-10-05,37.25
+P0515,Elena López,26.0,O,Miraflores,Medicina General,2025-12-24,
+P0516,José Mendoza,53.0,F,Cercado,Medicina General,2023-07-13,102.17
+P0517,Pedro López,24.0,M,Cercado,Medicina General,2021-11-09,453.03
+P0518,Elena Pérez,77.0,F,SJL,Ginecología,2021-04-05,368.06
+P0519,Carlos Campos,8.0,M,La Molina,Cardiología,2023-06-11,319.64
+P0520,Elena Ramírez,26.0,F,Cercado,Cardiología,2020-09-07,480.66
+P0521,Jorge Gómez,71.0,M,Cercado,Medicina General,2021-04-19,141.09
+P0522,María Ramírez,54.0,M,Surco,Ginecología,2022-06-11,205.95
+P0523,Carlos Vega,,M,Surco,Cardiología,2024-07-01,411.09
+P0524,Carlos Rojas,76.0,ND,San Isidro,Traumatología,2024-11-12,
+P0525,Jorge Mendoza,80.0,O,La Molina,Odontología,2024-10-01,229.65
+P0526,Pedro Pérez,12.0,M,San Isidro,Desconocido,2025-10-15,47.36
+P0527,Jorge Gómez,63.0,F,Callao,Medicina General,2024-07-26,208.57
+P0528,José Rojas,84.0,M,Miraflores,Odontología,2020-09-25,259.96
+P0529,Elena López,,F,Surco,Pediatría,2022-03-13,254.56
+P0530,José Campos,76.0,F,Miraflores,Cardiología,2025-01-26,390.91
+P0531,Carlos Mendoza,46.0,O,Los Olivos,Ginecología,2020-09-16,
+P0532,Elena Ramírez,64.0,F,SJL,Medicina General,2025-02-27,234.99
+P0533,Luis Torres,85.0,F,La Molina,Desconocido,2020-03-10,260.16
+P0534,María López,18.0,F,Miraflores,Desconocido,2023-09-24,434.05
+P0535,José Vega,38.0,F,Miraflores,Pediatría,2021-08-12,358.25
+P0536,Jorge Vega,52.0,M,Cercado,Desconocido,2023-07-14,286.77
+P0537,Elena Salazar,11.0,F,Miraflores,Ginecología,2022-06-25,313.15
+P0538,Elena Pérez,15.0,F,Desconocido,Traumatología,2020-12-26,379.72
+P0539,Rosa Mendoza,62.0,ND,Miraflores,Traumatología,2020-09-09,60.27
+P0540,Ana Campos,17.0,ND,Callao,Ginecología,2022-10-07,398.01
+P0541,Luis Vega,47.0,ND,Miraflores,Pediatría,2023-11-18,123.71
+P0542,Carlos Vega,31.0,O,Los Olivos,Odontología,2023-12-31,42.37
+P0543,Ana Vega,32.0,O,Callao,Desconocido,2023-01-21,358.04
+P0544,María Gómez,19.0,F,Surco,Cardiología,2024-11-27,95.63
+P0545,María Pérez,4.0,M,San Isidro,Pediatría,2021-04-08,441.92
+P0546,Rosa Gómez,85.0,M,San Isidro,Ginecología,2024-12-03,481.46
+P0547,Ana Rojas,,M,San Isidro,Odontología,2025-11-15,435.17
+P0548,María Salazar,38.0,M,Desconocido,Ginecología,2023-10-24,80.14
+P0549,Rosa Ramírez,30.0,M,Desconocido,Cardiología,2023-10-28,200.76
+P0550,Jorge Mendoza,23.0,ND,Callao,Odontología,2025-10-18,361.26
+P0551,Lucía Vega,83.0,M,SJL,Medicina General,2022-03-24,304.86
+P0552,María Mendoza,88.0,O,Miraflores,Cardiología,2024-05-29,184.09
+P0553,Pedro Ramírez,63.0,F,Miraflores,Odontología,2025-09-23,435.28
+P0554,Carlos Torres,,O,Desconocido,Odontología,2021-01-11,53.11
+P0555,José Vega,1.0,M,SJL,Cardiología,2020-03-04,425.93
+P0556,María Pérez,28.0,O,San Isidro,Ginecología,2022-12-12,306.76
+P0557,Ana Salazar,46.0,M,Cercado,Desconocido,2021-11-22,247.69
+P0558,María Pérez,26.0,F,SJL,Ginecología,2023-04-30,216.88
+P0559,Carlos Gómez,34.0,O,Surco,Traumatología,2025-08-09,212.87
+P0560,María Pérez,58.0,M,Los Olivos,Cardiología,2020-07-01,271.96
+P0561,Carlos Campos,22.0,M,SJL,Traumatología,2022-03-12,222.97
+P0562,Elena Campos,58.0,O,SJL,Ginecología,2020-12-31,84.3
+P0563,Elena Torres,36.0,F,Cercado,Traumatología,2024-02-28,
+P0564,José Salazar,62.0,M,Callao,Cardiología,2025-02-22,479.47
+P0565,Pedro Campos,63.0,ND,Desconocido,Ginecología,2020-02-11,279.6
+P0566,Lucía Salazar,41.0,F,La Molina,Pediatría,2021-06-07,282.83
+P0567,Elena Vega,21.0,F,Miraflores,Medicina General,2022-03-08,188.78
+P0568,Carlos Campos,57.0,O,Surco,Medicina General,2022-04-17,233.29
+P0569,Lucía Mendoza,52.0,ND,San Isidro,Desconocido,2020-04-05,69.61
+P0570,Elena Vega,46.0,F,Desconocido,Pediatría,2025-01-18,467.72
+P0571,Jorge Campos,36.0,F,Surco,Desconocido,2023-06-23,229.77
+P0572,Pedro Campos,79.0,ND,Desconocido,Ginecología,2020-11-10,411.06
+P0573,Jorge Vega,51.0,F,San Isidro,Cardiología,2025-02-17,112.28
+P0574,Carlos Ramírez,46.0,ND,Desconocido,Traumatología,2023-03-08,367.79
+P0575,María Salazar,42.0,O,Callao,Medicina General,2021-08-19,
+P0576,José Salazar,15.0,M,Los Olivos,Traumatología,2025-11-01,382.59
+P0577,Carlos Mendoza,31.0,O,La Molina,Odontología,2021-08-03,412.74
+P0578,Lucía Campos,17.0,F,Los Olivos,Odontología,2021-02-11,273.24
+P0579,Elena Ramírez,24.0,O,Cercado,Cardiología,2020-03-29,
+P0580,Ana Campos,22.0,ND,Callao,Pediatría,2020-03-11,189.38
+P0581,Ana Rojas,62.0,ND,Miraflores,Desconocido,2024-12-20,462.26
+P0582,Luis Mendoza,86.0,O,San Isidro,Odontología,2024-02-10,223.16
+P0583,Luis Pérez,77.0,F,Cercado,Medicina General,2025-01-10,198.39
+P0584,Luis Campos,,F,La Molina,Pediatría,2020-09-01,494.36
+P0585,Rosa Pérez,12.0,ND,Cercado,Ginecología,2021-09-13,368.55
+P0586,Lucía Torres,,F,Miraflores,Pediatría,2022-02-18,210.18
+P0587,Jorge Ramírez,28.0,M,Los Olivos,Medicina General,2025-02-24,
+P0588,Lucía Gómez,8.0,F,La Molina,Ginecología,2023-04-19,429.28
+P0589,Rosa Campos,40.0,M,Los Olivos,Pediatría,2023-07-07,475.99
+P0590,Pedro Torres,22.0,M,La Molina,Desconocido,2020-09-30,279.93
+P0591,José Pérez,79.0,O,Los Olivos,Traumatología,2023-07-19,210.33
+P0592,María Gómez,43.0,F,Callao,Cardiología,2024-11-08,
+P0593,María Campos,26.0,M,La Molina,Cardiología,2021-01-26,460.6
+P0594,José Pérez,42.0,F,SJL,Medicina General,2021-02-16,
+P0595,Rosa Mendoza,76.0,M,Los Olivos,Odontología,2023-11-23,
+P0596,Ana López,26.0,M,Los Olivos,Pediatría,2025-02-17,493.65
+P0597,Luis Gómez,,ND,La Molina,Odontología,2021-04-13,
+P0598,José Gómez,86.0,ND,Los Olivos,Medicina General,2022-08-08,262.45
+P0599,José Torres,78.0,F,San Isidro,Odontología,2025-01-14,163.76
+P0600,Luis Pérez,90.0,ND,Los Olivos,Desconocido,2021-08-15,97.99
+P0601,José Rojas,80.0,F,Miraflores,Pediatría,2020-07-27,107.42
+P0602,José Gómez,29.0,ND,Surco,Medicina General,2021-05-03,44.2
+P0603,Rosa Rojas,10.0,F,Miraflores,Medicina General,2025-05-11,63.09
+P0604,José Pérez,42.0,O,San Isidro,Pediatría,2021-06-02,22.87
+P0605,Pedro Torres,63.0,ND,Desconocido,Ginecología,2022-08-12,468.25
+P0606,Pedro Salazar,35.0,F,San Isidro,Pediatría,2022-09-27,51.73
+P0607,Elena Ramírez,,ND,Los Olivos,Medicina General,2021-03-07,461.88
+P0608,José Ramírez,88.0,ND,Los Olivos,Cardiología,2024-10-25,91.99
+P0609,Luis Vega,34.0,M,SJL,Pediatría,2023-03-31,366.7
+P0610,Luis Gómez,70.0,M,SJL,Pediatría,2022-05-25,334.28
+P0611,Elena Pérez,59.0,F,Surco,Desconocido,2021-05-15,69.08
+P0612,Elena Ramírez,7.0,M,San Isidro,Desconocido,2024-06-07,56.65
+P0613,Jorge Salazar,25.0,F,Los Olivos,Pediatría,2024-10-05,389.43
+P0614,María Torres,23.0,O,SJL,Ginecología,2020-06-23,211.36
+P0615,Pedro Ramírez,89.0,F,Surco,Medicina General,2025-11-30,217.12
+P0616,Ana López,83.0,O,Los Olivos,Odontología,2020-06-15,444.89
+P0617,Rosa Gómez,2.0,O,Surco,Odontología,2022-12-21,
+P0618,María Rojas,23.0,F,San Isidro,Traumatología,2022-10-31,291.49
+P0619,Elena Torres,,M,Miraflores,Desconocido,2024-03-11,26.42
+P0620,José López,66.0,F,SJL,Desconocido,2024-04-20,436.56
+P0621,Carlos Campos,73.0,F,Miraflores,Desconocido,2022-07-15,370.33
+P0622,María Rojas,49.0,F,Callao,Ginecología,2023-12-29,271.78
+P0623,José Mendoza,9.0,M,San Isidro,Medicina General,2021-03-23,66.83
+P0624,José Pérez,59.0,ND,San Isidro,Pediatría,2022-02-19,178.55
+P0625,Jorge Vega,74.0,ND,SJL,Ginecología,2021-09-28,324.38
+P0626,Ana Salazar,16.0,M,Callao,Odontología,2022-11-28,335.58
+P0627,Rosa Gómez,66.0,M,Cercado,Cardiología,2023-03-27,323.14
+P0628,Rosa Pérez,84.0,F,Desconocido,Ginecología,2021-05-09,140.15
+P0629,Pedro Pérez,52.0,M,Cercado,Medicina General,2022-08-07,402.67
+P0630,Carlos Torres,9.0,O,La Molina,Pediatría,2024-05-16,451.73
+P0631,Pedro Gómez,8.0,O,Los Olivos,Medicina General,2022-03-25,222.18
+P0632,Rosa Torres,55.0,O,Los Olivos,Traumatología,2023-08-22,420.82
+P0633,Ana Rojas,57.0,F,San Isidro,Pediatría,2020-10-29,93.62
+P0634,Jorge Ramírez,82.0,F,San Isidro,Desconocido,2025-08-12,74.26
+P0635,Jorge Mendoza,,ND,Cercado,Traumatología,2021-10-14,
+P0636,Carlos Rojas,68.0,M,San Isidro,Pediatría,2020-07-26,265.83
+P0637,Jorge Mendoza,,ND,Surco,Odontología,2024-01-04,323.27
+P0638,Jorge Gómez,12.0,F,Desconocido,Cardiología,2020-08-07,468.32
+P0639,Luis Pérez,3.0,F,SJL,Medicina General,2025-10-10,303.32
+P0640,Carlos Ramírez,55.0,M,Los Olivos,Ginecología,2021-08-07,387.67
+P0641,Elena Rojas,87.0,ND,Desconocido,Ginecología,2024-06-13,23.8
+P0642,Jorge Ramírez,64.0,F,SJL,Traumatología,2020-06-16,71.13
+P0643,Ana Mendoza,40.0,F,La Molina,Medicina General,2024-05-27,403.48
+P0644,Lucía Salazar,42.0,ND,San Isidro,Traumatología,2024-12-09,480.77
+P0645,Elena Torres,82.0,ND,Los Olivos,Pediatría,2023-11-22,328.9
+P0646,Carlos Pérez,77.0,ND,SJL,Ginecología,2021-04-24,338.2
+P0647,Pedro Rojas,38.0,O,La Molina,Cardiología,2022-03-03,384.25
+P0648,Pedro Gómez,50.0,M,Miraflores,Desconocido,2025-02-24,
+P0649,Elena Pérez,4.0,ND,La Molina,Medicina General,2023-06-27,326.83
+P0650,Luis López,46.0,M,Desconocido,Medicina General,2023-12-18,
+P0651,Luis Torres,77.0,F,Cercado,Odontología,2020-04-18,123.91
+P0652,Ana López,2.0,M,Callao,Pediatría,2021-09-19,189.84
+P0653,José Torres,72.0,M,Callao,Medicina General,2021-01-12,266.46
+P0654,Jorge Ramírez,,F,San Isidro,Traumatología,2023-06-08,369.67
+P0655,Rosa Pérez,41.0,ND,Desconocido,Desconocido,2020-12-13,210.59
+P0656,José Pérez,90.0,F,Surco,Ginecología,2020-01-13,35.95
+P0657,Jorge Mendoza,73.0,O,Desconocido,Desconocido,2022-02-12,436.04
+P0658,Lucía Salazar,67.0,F,Cercado,Traumatología,2024-04-26,46.06
+P0659,María Pérez,53.0,O,Cercado,Pediatría,2024-08-07,
+P0660,María Torres,88.0,M,Surco,Cardiología,2023-10-22,497.13
+P0661,Lucía Rojas,80.0,F,Callao,Cardiología,2022-06-28,
+P0662,Rosa Salazar,16.0,O,Callao,Desconocido,2025-07-25,351.99
+P0663,Pedro Salazar,39.0,O,SJL,Ginecología,2025-02-28,196.07
+P0664,Lucía Pérez,55.0,F,Cercado,Medicina General,2025-11-29,346.98
+P0665,Ana Campos,27.0,M,Desconocido,Traumatología,2022-04-25,
+P0666,Ana Ramírez,87.0,F,La Molina,Odontología,2024-04-03,203.31
+P0667,Jorge Salazar,51.0,ND,Miraflores,Desconocido,2024-10-09,298.58
+P0668,José López,,O,Los Olivos,Pediatría,2020-08-26,370.94
+P0669,María Ramírez,67.0,F,La Molina,Medicina General,2024-03-15,219.66
+P0670,Carlos Campos,43.0,M,Callao,Cardiología,2022-06-19,214.37
+P0671,Elena Torres,68.0,F,SJL,Pediatría,2021-03-18,105.59
+P0672,Rosa López,53.0,M,Miraflores,Medicina General,2020-06-07,419.42
+P0673,Elena Mendoza,51.0,M,La Molina,Traumatología,2022-12-16,356.45
+P0674,María Campos,35.0,ND,Desconocido,Cardiología,2023-06-17,394.62
+P0675,Pedro Gómez,72.0,F,SJL,Cardiología,2021-03-16,490.71
+P0676,Lucía Pérez,,O,Surco,Cardiología,2022-02-12,168.04
+P0677,Jorge Rojas,2.0,ND,Los Olivos,Pediatría,2020-05-27,474.76
+P0678,María Ramírez,31.0,F,SJL,Odontología,2023-06-05,303.19
+P0679,Rosa Pérez,28.0,M,Miraflores,Traumatología,2021-11-02,178.43
+P0680,José Mendoza,80.0,ND,Surco,Cardiología,2023-08-17,144.3
+P0681,José Ramírez,45.0,ND,Cercado,Medicina General,2022-09-16,71.53
+P0682,Luis Salazar,57.0,ND,Callao,Medicina General,2022-10-24,64.46
+P0683,María Vega,14.0,ND,SJL,Cardiología,2023-01-15,217.14
+P0684,María Gómez,3.0,F,La Molina,Ginecología,2024-10-13,351.29
+P0685,Jorge Rojas,90.0,ND,Callao,Ginecología,2020-08-30,230.65
+P0686,María Torres,72.0,O,Surco,Pediatría,2022-03-19,208.85
+P0687,Rosa Rojas,,M,Los Olivos,Ginecología,2022-07-04,264.26
+P0688,Pedro Salazar,52.0,M,La Molina,Odontología,2023-12-29,119.43
+P0689,Carlos Torres,69.0,O,Los Olivos,Ginecología,2024-07-07,375.6
+P0690,Carlos Gómez,46.0,M,Los Olivos,Cardiología,2021-07-07,104.31
+P0691,Lucía Campos,90.0,F,Surco,Cardiología,2023-08-10,119.34
+P0692,Luis Torres,80.0,O,Cercado,Ginecología,2025-08-11,32.69
+P0693,Luis Pérez,49.0,ND,Miraflores,Ginecología,2025-08-05,442.32
+P0694,Carlos Rojas,44.0,O,SJL,Desconocido,2024-11-07,212.69
+P0695,Lucía López,54.0,M,Desconocido,Cardiología,2023-02-17,67.41
+P0696,Pedro Rojas,79.0,M,SJL,Traumatología,2025-11-11,78.73
+P0697,Rosa Ramírez,41.0,O,Callao,Traumatología,2020-12-22,
+P0698,Jorge Ramírez,61.0,M,La Molina,Traumatología,2023-04-25,86.47
+P0699,Jorge López,63.0,ND,Surco,Pediatría,2023-06-12,33.89
+P0700,Luis Torres,83.0,F,Miraflores,Pediatría,2020-06-17,103.13
+P0701,Jorge Pérez,14.0,F,Desconocido,Pediatría,2021-07-22,42.31
+P0702,Jorge López,44.0,O,San Isidro,Desconocido,2020-04-19,326.58
+P0703,Luis Salazar,39.0,O,La Molina,Odontología,2020-10-04,
+P0704,María Campos,31.0,F,Desconocido,Odontología,2023-08-02,141.46
+P0705,Ana Pérez,58.0,O,Miraflores,Traumatología,2024-05-10,252.19
+P0706,José Salazar,7.0,F,Los Olivos,Cardiología,2021-01-14,181.63
+P0707,José López,14.0,M,San Isidro,Traumatología,2025-08-30,98.97
+P0708,Lucía Ramírez,,O,Surco,Odontología,2021-06-14,191.36
+P0709,Pedro Gómez,79.0,F,Cercado,Medicina General,2025-04-24,392.65
+P0710,Carlos Torres,14.0,F,Desconocido,Pediatría,2020-11-30,80.42
+P0711,Pedro Mendoza,50.0,O,Los Olivos,Medicina General,2020-01-18,84.63
+P0712,Pedro López,5.0,M,San Isidro,Pediatría,2025-11-28,386.55
+P0713,María Pérez,27.0,O,Cercado,Pediatría,2025-08-05,430.1
+P0714,Ana Ramírez,24.0,F,Miraflores,Pediatría,2024-04-08,
+P0715,Lucía Torres,81.0,M,La Molina,Medicina General,2022-05-18,376.19
+P0716,Luis López,4.0,O,Desconocido,Odontología,2025-12-26,84.71
+P0717,Luis Ramírez,2.0,F,San Isidro,Cardiología,2023-04-25,293.74
+P0718,María Pérez,,ND,La Molina,Odontología,2021-10-11,48.04
+P0719,Pedro Rojas,,O,Cercado,Traumatología,2022-07-04,90.19
+P0720,Elena Ramírez,85.0,F,Cercado,Odontología,2020-12-30,205.34
+P0721,María Salazar,12.0,ND,Callao,Ginecología,2021-08-23,
+P0722,Jorge Salazar,1.0,O,Cercado,Pediatría,2020-01-11,
+P0723,Lucía Ramírez,43.0,F,Los Olivos,Traumatología,2023-11-13,364.56
+P0724,Elena Mendoza,46.0,ND,SJL,Odontología,2025-08-10,345.06
+P0725,Elena López,44.0,M,Callao,Cardiología,2022-06-06,69.14
+P0726,María Gómez,15.0,O,Cercado,Cardiología,2024-08-12,33.85
+P0727,Carlos Campos,36.0,F,Miraflores,Cardiología,2024-05-17,366.66
+P0728,Ana Campos,58.0,O,SJL,Ginecología,2024-10-08,356.08
+P0729,Elena Mendoza,35.0,ND,Surco,Medicina General,2021-12-02,159.39
+P0730,Lucía Rojas,86.0,F,La Molina,Desconocido,2025-09-12,324.11
+P0731,María Torres,39.0,ND,Cercado,Medicina General,2024-09-09,100.03
+P0732,Jorge Mendoza,,O,La Molina,Pediatría,2024-11-05,76.32
+P0733,Carlos Vega,79.0,O,San Isidro,Desconocido,2023-07-25,372.88
+P0734,Lucía López,78.0,O,SJL,Medicina General,2025-02-17,106.64
+P0735,Ana Torres,,M,SJL,Cardiología,2021-05-28,273.66
+P0736,Jorge Campos,59.0,O,Callao,Traumatología,2021-09-05,355.62
+P0737,Rosa Vega,44.0,ND,Callao,Pediatría,2022-12-14,274.81
+P0738,Lucía Vega,50.0,O,San Isidro,Cardiología,2021-04-10,183.49
+P0739,Pedro López,90.0,O,Los Olivos,Ginecología,2020-05-28,97.99
+P0740,María Salazar,2.0,M,SJL,Ginecología,2020-07-12,216.62
+P0741,Lucía Gómez,12.0,F,Desconocido,Cardiología,2021-06-01,
+P0742,Lucía Gómez,80.0,ND,Desconocido,Odontología,2024-08-19,314.86
+P0743,Lucía Campos,60.0,F,San Isidro,Pediatría,2020-01-20,
+P0744,Luis López,20.0,ND,Desconocido,Odontología,2022-12-31,260.11
+P0745,Carlos Salazar,18.0,ND,Cercado,Traumatología,2021-04-29,220.79
+P0746,Lucía Vega,9.0,F,Surco,Traumatología,2025-08-09,
+P0747,Ana Pérez,15.0,O,San Isidro,Ginecología,2020-11-29,
+P0748,María Ramírez,78.0,F,Desconocido,Pediatría,2025-08-28,336.39
+P0749,María Rojas,15.0,M,Miraflores,Medicina General,2021-05-23,291.15
+P0750,Elena Gómez,17.0,M,Cercado,Cardiología,2020-11-23,404.07
+P0751,Rosa Campos,74.0,O,Desconocido,Traumatología,2021-08-24,365.8
+P0752,Ana Pérez,68.0,M,SJL,Odontología,2025-03-06,124.28
+P0753,Rosa Torres,68.0,ND,Cercado,Ginecología,2021-10-21,406.61
+P0754,José Torres,1.0,O,Callao,Pediatría,2021-12-03,
+P0755,Jorge Salazar,55.0,M,San Isidro,Traumatología,2020-11-21,457.27
+P0756,Pedro Vega,65.0,M,SJL,Ginecología,2022-01-24,496.35
+P0757,Jorge Vega,21.0,ND,Desconocido,Ginecología,2023-12-07,358.78
+P0758,Elena Ramírez,57.0,M,Cercado,Desconocido,2024-05-13,186.36
+P0759,Jorge Mendoza,59.0,M,Cercado,Desconocido,2022-03-10,459.53
+P0760,Carlos López,67.0,ND,Miraflores,Traumatología,2021-06-25,416.53
+P0761,Luis Salazar,73.0,F,La Molina,Ginecología,2022-12-09,308.59
+P0762,Pedro Rojas,46.0,M,Cercado,Odontología,2020-02-07,257.94
+P0763,Elena Vega,80.0,ND,Surco,Ginecología,2020-02-09,303.33
+P0764,María Mendoza,,ND,Miraflores,Ginecología,2023-09-27,24.9
+P0765,María Pérez,77.0,M,SJL,Odontología,2023-06-28,148.26
+P0766,María Campos,58.0,F,Callao,Desconocido,2025-01-31,132.56
+P0767,Luis Rojas,24.0,F,La Molina,Odontología,2023-09-22,96.61
+P0768,Lucía Ramírez,,M,Los Olivos,Desconocido,2025-08-10,200.33
+P0769,José Gómez,42.0,M,Miraflores,Odontología,2025-10-04,178.55
+P0770,José Vega,63.0,O,Callao,Pediatría,2023-11-27,138.37
+P0771,Rosa Campos,,O,San Isidro,Medicina General,2025-12-21,270.35
+P0772,Elena Rojas,19.0,M,SJL,Odontología,2023-08-03,113.63
+P0773,Lucía Pérez,81.0,F,San Isidro,Desconocido,2022-05-25,
+P0774,Ana Vega,42.0,M,San Isidro,Medicina General,2022-05-01,
+P0775,Rosa Ramírez,,F,Surco,Odontología,2021-07-10,101.98
+P0776,Ana Torres,61.0,ND,Cercado,Cardiología,2020-07-10,497.03
+P0777,María Rojas,61.0,ND,San Isidro,Medicina General,2021-03-03,442.23
+P0778,Ana Ramírez,43.0,ND,Los Olivos,Traumatología,2020-07-13,153.65
+P0779,Lucía López,17.0,F,SJL,Ginecología,2024-04-16,398.43
+P0780,María Ramírez,29.0,F,SJL,Odontología,2020-02-28,398.95
+P0781,Elena López,,M,SJL,Cardiología,2023-08-26,364.44
+P0782,Pedro Mendoza,70.0,O,La Molina,Medicina General,2021-01-15,277.73
+P0783,Pedro Gómez,39.0,M,Cercado,Ginecología,2020-04-04,363.91
+P0784,Lucía Mendoza,83.0,ND,Los Olivos,Pediatría,2021-02-26,313.04
+P0785,Luis Ramírez,49.0,F,Surco,Medicina General,2024-08-22,188.01
+P0786,Luis Campos,68.0,O,Miraflores,Odontología,2024-10-08,269.25
+P0787,Ana López,33.0,M,SJL,Traumatología,2021-06-24,
+P0788,Luis Pérez,84.0,ND,San Isidro,Odontología,2023-01-31,210.64
+P0789,Luis López,18.0,M,Cercado,Cardiología,2024-09-17,393.75
+P0790,María Vega,55.0,O,Los Olivos,Desconocido,2023-11-09,195.15
+P0791,Lucía Rojas,,M,La Molina,Cardiología,2024-11-16,254.08
+P0792,Lucía Torres,74.0,ND,Miraflores,Pediatría,2025-05-12,139.2
+P0793,Luis Torres,75.0,O,Desconocido,Desconocido,2020-04-25,208.68
+P0794,Lucía Ramírez,17.0,O,Los Olivos,Traumatología,2021-01-07,285.71
+P0795,Luis Rojas,62.0,ND,Surco,Ginecología,2024-06-17,394.35
+P0796,Luis Campos,1.0,F,Callao,Traumatología,2022-01-15,434.9
+P0797,Lucía Pérez,31.0,O,Callao,Ginecología,2022-08-23,55.61
+P0798,Luis Salazar,81.0,ND,Callao,Ginecología,2021-02-18,162.68
+P0799,Jorge Ramírez,34.0,ND,Callao,Odontología,2021-10-20,70.03
+P0800,José Pérez,53.0,F,SJL,Odontología,2025-03-08,
+P0801,Ana Gómez,84.0,F,La Molina,Ginecología,2024-01-28,34.72
+P0802,Lucía López,12.0,F,Desconocido,Traumatología,2020-05-01,493.06
+P0803,José Gómez,69.0,F,Cercado,Odontología,2020-01-17,452.72
+P0804,Ana López,9.0,O,Callao,Traumatología,2021-04-13,218.37
+P0805,Jorge Salazar,37.0,O,Los Olivos,Desconocido,2023-09-11,276.29
+P0806,Rosa Rojas,13.0,ND,Callao,Odontología,2024-09-06,105.69
+P0807,María López,70.0,M,Desconocido,Cardiología,2021-10-03,117.5
+P0808,Pedro Campos,20.0,F,Desconocido,Cardiología,2023-06-28,
+P0809,Carlos Pérez,13.0,M,Cercado,Odontología,2024-05-09,474.51
+P0810,Pedro Campos,37.0,ND,SJL,Traumatología,2021-09-28,147.05
+P0811,Pedro Torres,83.0,M,Cercado,Medicina General,2021-09-09,93.97
+P0812,Lucía Gómez,67.0,M,Surco,Desconocido,2024-05-12,83.35
+P0813,Ana Vega,44.0,ND,Callao,Odontología,2020-03-06,228.88
+P0814,José Salazar,9.0,O,Los Olivos,Pediatría,2023-01-05,
+P0815,Carlos Mendoza,3.0,F,San Isidro,Desconocido,2025-10-03,218.54
+P0816,Rosa Ramírez,70.0,M,San Isidro,Desconocido,2023-07-30,
+P0817,Jorge Gómez,61.0,M,Los Olivos,Medicina General,2020-11-24,40.26
+P0818,Luis Pérez,,F,SJL,Medicina General,2021-07-08,47.54
+P0819,José Salazar,45.0,O,Callao,Cardiología,2020-06-28,322.89
+P0820,Elena Gómez,54.0,O,Cercado,Desconocido,2025-10-29,
+P0821,Jorge Torres,62.0,M,Desconocido,Odontología,2023-03-13,
+P0822,Lucía Rojas,68.0,O,Surco,Cardiología,2023-02-20,479.42
+P0823,Pedro Campos,46.0,M,Desconocido,Medicina General,2022-09-01,386.83
+P0824,Elena Salazar,10.0,ND,Los Olivos,Cardiología,2023-09-23,117.7
+P0825,Ana Ramírez,22.0,F,San Isidro,Pediatría,2021-05-20,167.48
+P0826,Jorge Vega,40.0,F,Desconocido,Ginecología,2024-07-22,164.96
+P0827,Pedro Mendoza,11.0,ND,Desconocido,Medicina General,2025-08-13,388.37
+P0828,Pedro Ramírez,42.0,F,La Molina,Medicina General,2025-07-08,219.03
+P0829,Elena Pérez,42.0,O,San Isidro,Medicina General,2024-11-20,485.67
+P0830,Luis Torres,,M,San Isidro,Pediatría,2025-12-12,458.1
+P0831,Lucía Torres,64.0,F,Desconocido,Cardiología,2023-10-08,497.88
+P0832,Ana Salazar,65.0,F,Los Olivos,Pediatría,2025-06-15,
+P0833,Luis Vega,71.0,F,Cercado,Pediatría,2020-10-23,
+P0834,Jorge Rojas,44.0,F,La Molina,Odontología,2021-05-19,142.7
+P0835,José Mendoza,89.0,ND,SJL,Ginecología,2024-09-23,126.42
+P0836,Luis Torres,29.0,ND,La Molina,Ginecología,2022-08-13,367.6
+P0837,José Salazar,58.0,F,Miraflores,Pediatría,2020-09-25,
+P0838,Ana Mendoza,63.0,ND,Miraflores,Pediatría,2022-07-11,220.16
+P0839,Luis Salazar,77.0,O,SJL,Pediatría,2023-08-31,214.5
+P0840,Luis Gómez,77.0,M,SJL,Odontología,2020-07-21,495.21
+P0841,José Torres,51.0,M,Surco,Medicina General,2021-10-29,69.89
+P0842,Elena Pérez,62.0,F,Los Olivos,Cardiología,2023-02-21,267.56
+P0843,Lucía Gómez,60.0,ND,Miraflores,Traumatología,2025-12-14,395.76
+P0844,Rosa Ramírez,52.0,M,Los Olivos,Traumatología,2020-08-15,
+P0845,Carlos Vega,41.0,O,Surco,Pediatría,2024-03-28,217.17
+P0846,Pedro Gómez,64.0,ND,Surco,Desconocido,2025-09-16,46.36
+P0847,Luis Campos,49.0,F,La Molina,Traumatología,2023-11-09,252.11
+P0848,José Vega,16.0,O,Desconocido,Desconocido,2022-09-07,345.41
+P0849,Luis Salazar,65.0,M,La Molina,Ginecología,2020-03-03,33.45
+P0850,Lucía Torres,9.0,ND,Callao,Ginecología,2024-05-01,137.02
+P0851,Elena Ramírez,58.0,O,Miraflores,Ginecología,2023-03-06,241.08
+P0852,Carlos Campos,86.0,ND,San Isidro,Pediatría,2021-11-21,83.27
+P0853,Jorge Gómez,16.0,O,Los Olivos,Medicina General,2022-02-06,284.24
+P0854,Lucía Ramírez,61.0,F,Miraflores,Medicina General,2025-07-01,92.21
+P0855,Rosa Ramírez,18.0,O,Desconocido,Desconocido,2020-06-24,395.17
+P0856,María Mendoza,72.0,F,Los Olivos,Desconocido,2020-05-23,32.19
+P0857,Carlos Gómez,77.0,ND,SJL,Ginecología,2021-04-11,45.97
+P0858,Lucía Pérez,54.0,ND,Cercado,Medicina General,2021-08-20,
+P0859,Jorge Pérez,47.0,ND,Desconocido,Ginecología,2024-10-04,314.5
+P0860,María Campos,28.0,M,La Molina,Odontología,2022-11-19,270.27
+P0861,Carlos Ramírez,51.0,F,Cercado,Medicina General,2022-11-24,
+P0862,Jorge Gómez,49.0,F,Los Olivos,Desconocido,2023-04-26,479.77
+P0863,José Gómez,42.0,F,Desconocido,Traumatología,2022-03-05,282.55
+P0864,Pedro Rojas,44.0,ND,Cercado,Traumatología,2022-07-30,290.71
+P0865,Carlos Ramírez,41.0,ND,Callao,Desconocido,2025-05-08,40.68
+P0866,Elena Ramírez,30.0,O,Callao,Pediatría,2022-05-12,158.04
+P0867,Lucía Campos,10.0,O,SJL,Odontología,2024-03-09,41.7
+P0868,María Gómez,61.0,ND,SJL,Traumatología,2025-10-26,319.9
+P0869,Rosa Salazar,16.0,F,SJL,Cardiología,2021-08-03,381.58
+P0870,Elena Vega,76.0,O,La Molina,Cardiología,2023-10-28,223.81
+P0871,María Gómez,84.0,M,La Molina,Ginecología,2025-10-20,192.12
+P0872,María Gómez,60.0,F,San Isidro,Traumatología,2022-12-31,34.55
+P0873,Rosa López,69.0,ND,Surco,Odontología,2022-11-15,405.8
+P0874,María López,66.0,M,Cercado,Cardiología,2022-03-24,408.83
+P0875,Lucía Ramírez,13.0,M,Callao,Pediatría,2024-11-07,473.31
+P0876,Luis Torres,70.0,O,La Molina,Desconocido,2021-03-09,206.66
+P0877,José Campos,13.0,M,Miraflores,Cardiología,2024-02-29,166.78
+P0878,Jorge Rojas,,ND,Desconocido,Ginecología,2025-12-07,54.85
+P0879,Jorge Vega,53.0,F,Surco,Pediatría,2023-03-26,41.69
+P0880,Luis Salazar,49.0,M,SJL,Cardiología,2020-05-15,355.9
+P0881,Pedro Pérez,35.0,O,SJL,Odontología,2023-09-22,424.34
+P0882,Ana Salazar,,O,Cercado,Desconocido,2023-06-06,448.89
+P0883,Carlos Rojas,34.0,M,Cercado,Ginecología,2023-10-29,281.78
+P0884,Jorge López,61.0,M,Los Olivos,Medicina General,2023-02-22,423.69
+P0885,Luis Gómez,57.0,ND,San Isidro,Desconocido,2024-08-13,268.93
+P0886,Rosa Gómez,6.0,F,La Molina,Medicina General,2020-06-14,308.38
+P0887,Ana Pérez,15.0,ND,Surco,Medicina General,2023-10-19,342.52
+P0888,Rosa Mendoza,63.0,O,Desconocido,Traumatología,2022-07-08,432.81
+P0889,Luis López,87.0,F,San Isidro,Pediatría,2023-02-17,197.21
+P0890,José Mendoza,19.0,ND,Desconocido,Cardiología,2022-01-01,
+P0891,Rosa Ramírez,,ND,Los Olivos,Medicina General,2024-07-12,107.06
+P0892,Lucía Mendoza,28.0,ND,SJL,Medicina General,2025-06-29,
+P0893,Luis Gómez,42.0,O,Miraflores,Cardiología,2022-07-23,
+P0894,Pedro Mendoza,83.0,M,Miraflores,Cardiología,2021-06-25,186.67
+P0895,José Ramírez,10.0,ND,La Molina,Ginecología,2025-07-12,468.44
+P0896,Jorge Salazar,89.0,ND,Cercado,Traumatología,2024-02-14,252.87
+P0897,Jorge Salazar,,O,Callao,Odontología,2022-02-17,488.47
+P0898,Ana Rojas,73.0,M,Cercado,Cardiología,2024-11-04,23.92
+P0899,Lucía Vega,79.0,ND,Cercado,Medicina General,2022-06-08,
+P0900,Elena Torres,41.0,M,Miraflores,Cardiología,2023-04-05,278.51
+P0901,Elena Torres,53.0,ND,Desconocido,Desconocido,2022-05-24,282.16
+P0902,Pedro Vega,57.0,O,La Molina,Medicina General,2022-06-30,264.7
+P0903,Elena López,28.0,O,Surco,Medicina General,2021-09-26,73.47
+P0904,Lucía López,61.0,ND,Surco,Cardiología,2025-04-29,46.02
+P0905,Luis Rojas,64.0,M,Surco,Odontología,2023-02-27,
+P0906,Rosa Vega,25.0,ND,San Isidro,Cardiología,2025-12-31,63.66
+P0907,María Mendoza,64.0,ND,SJL,Traumatología,2025-05-20,259.57
+P0908,Jorge Campos,3.0,M,SJL,Desconocido,2022-11-03,25.58
+P0909,Ana Gómez,30.0,M,San Isidro,Pediatría,2024-03-25,85.15
+P0910,Pedro Pérez,26.0,ND,Cercado,Pediatría,2023-07-23,182.09
+P0911,Elena Torres,40.0,M,Callao,Pediatría,2020-11-17,485.79
+P0912,Rosa Torres,,F,San Isidro,Pediatría,2022-07-31,132.01
+P0913,Pedro Mendoza,,F,Miraflores,Cardiología,2023-04-30,278.87
+P0914,Ana Mendoza,83.0,O,Los Olivos,Pediatría,2020-04-21,418.12
+P0915,María Salazar,,ND,San Isidro,Odontología,2021-08-16,180.81
+P0916,Jorge Pérez,70.0,F,Surco,Cardiología,2025-12-08,429.07
+P0917,Luis Pérez,17.0,O,Surco,Cardiología,2024-03-15,495.02
+P0918,Carlos Ramírez,86.0,F,Miraflores,Pediatría,2024-09-13,205.56
+P0919,Carlos López,,F,Surco,Ginecología,2020-12-12,35.06
+P0920,José Torres,43.0,F,Surco,Desconocido,2021-09-30,62.05
+P0921,María Salazar,18.0,M,Los Olivos,Ginecología,2022-02-05,203.94
+P0922,Pedro Salazar,50.0,O,Surco,Pediatría,2021-04-21,320.57
+P0923,Carlos Vega,77.0,O,San Isidro,Medicina General,2022-10-20,467.21
+P0924,Pedro Torres,52.0,F,Miraflores,Pediatría,2025-05-24,432.59
+P0925,Pedro Torres,2.0,ND,Los Olivos,Ginecología,2024-02-22,21.84
+P0926,Jorge Torres,7.0,O,La Molina,Desconocido,2024-06-28,
+P0927,Rosa López,57.0,ND,San Isidro,Odontología,2021-08-02,
+P0928,Jorge Campos,,ND,San Isidro,Cardiología,2021-03-26,235.32
+P0929,Lucía López,63.0,F,Surco,Cardiología,2022-03-02,388.06
+P0930,Carlos López,69.0,F,Surco,Pediatría,2020-10-26,
+P0931,Carlos Vega,71.0,M,Surco,Ginecología,2021-10-07,202.99
+P0932,María Rojas,21.0,O,Surco,Traumatología,2025-08-09,217.18
+P0933,Pedro Campos,15.0,O,Surco,Pediatría,2021-08-05,
+P0934,Jorge Ramírez,65.0,F,Desconocido,Medicina General,2023-07-25,286.6
+P0935,Jorge Ramírez,16.0,M,Miraflores,Traumatología,2021-01-24,413.04
+P0936,Luis Salazar,81.0,ND,La Molina,Cardiología,2020-10-19,322.64
+P0937,Lucía Salazar,,O,La Molina,Traumatología,2020-05-09,320.67
+P0938,Ana Campos,36.0,M,La Molina,Medicina General,2024-03-09,407.64
+P0939,Rosa Mendoza,87.0,ND,San Isidro,Traumatología,2025-01-23,174.14
+P0940,Carlos Ramírez,11.0,M,Desconocido,Medicina General,2023-08-08,429.39
+P0941,Rosa López,40.0,M,Callao,Odontología,2023-08-26,48.77
+P0942,Carlos Vega,86.0,M,Callao,Medicina General,2021-11-23,480.18
+P0943,María Torres,61.0,O,Desconocido,Cardiología,2023-10-23,461.66
+P0944,María Pérez,7.0,M,Cercado,Ginecología,2023-06-02,314.54
+P0945,Luis Campos,32.0,ND,SJL,Traumatología,2020-01-14,161.13
+P0946,Elena Torres,59.0,ND,Callao,Traumatología,2025-10-31,361.87
+P0947,Lucía Rojas,48.0,F,San Isidro,Pediatría,2023-02-06,417.45
+P0948,Lucía López,,ND,San Isidro,Desconocido,2020-01-22,105.4
+P0949,Rosa López,,M,La Molina,Desconocido,2020-05-26,
+P0950,Carlos Vega,82.0,ND,Surco,Pediatría,2025-01-01,414.19
+P0951,Elena Torres,,ND,San Isidro,Pediatría,2021-06-13,
+P0952,Lucía Torres,21.0,O,La Molina,Medicina General,2020-08-20,392.88
+P0953,María Torres,70.0,M,Miraflores,Desconocido,2023-09-20,101.04
+P0954,Luis Pérez,78.0,ND,Cercado,Ginecología,2023-11-20,246.86
+P0955,Jorge Ramírez,,M,San Isidro,Desconocido,2020-10-01,493.1
+P0956,Elena Rojas,19.0,O,Los Olivos,Cardiología,2024-08-05,22.47
+P0957,Lucía Torres,87.0,M,Miraflores,Odontología,2022-01-01,319.51
+P0958,Elena Salazar,45.0,ND,Los Olivos,Ginecología,2021-05-03,193.31
+P0959,Elena Mendoza,6.0,F,Cercado,Pediatría,2022-03-18,83.98
+P0960,Jorge Mendoza,88.0,M,Desconocido,Cardiología,2021-07-23,329.04
+P0961,Lucía Ramírez,63.0,O,Surco,Traumatología,2022-05-01,51.38
+P0962,María Ramírez,51.0,ND,Surco,Cardiología,2023-10-13,270.92
+P0963,Ana Ramírez,55.0,O,Miraflores,Desconocido,2020-07-06,
+P0964,Elena Rojas,8.0,F,Los Olivos,Traumatología,2020-05-11,285.39
+P0965,Rosa Rojas,6.0,O,Cercado,Medicina General,2023-07-03,438.17
+P0966,Jorge Torres,62.0,ND,La Molina,Cardiología,2020-02-29,487.35
+P0967,José Ramírez,22.0,ND,SJL,Cardiología,2020-04-08,410.7
+P0968,María Mendoza,34.0,F,Cercado,Pediatría,2020-06-25,
+P0969,Pedro Vega,85.0,F,Cercado,Medicina General,2021-01-28,404.95
+P0970,Rosa Campos,28.0,ND,Desconocido,Cardiología,2024-06-15,405.19
+P0971,Pedro López,55.0,F,Los Olivos,Odontología,2025-09-29,392.09
+P0972,Elena Vega,88.0,O,Los Olivos,Cardiología,2021-04-09,48.97
+P0973,Luis Mendoza,72.0,O,Los Olivos,Odontología,2024-03-10,80.56
+P0974,María Campos,90.0,M,Surco,Desconocido,2021-08-14,157.29
+P0975,Elena López,70.0,O,Los Olivos,Odontología,2024-09-22,210.78
+P0976,Luis Rojas,76.0,ND,Surco,Desconocido,2023-06-07,425.08
+P0977,Elena Torres,,M,La Molina,Cardiología,2025-04-21,252.93
+P0978,Pedro López,27.0,ND,Miraflores,Traumatología,2023-11-30,
+P0979,María Vega,89.0,ND,La Molina,Odontología,2025-03-21,481.35
+P0980,María Vega,44.0,F,Surco,Medicina General,2025-02-02,43.08
+P0981,Jorge Mendoza,,F,La Molina,Desconocido,2023-12-06,372.75
+P0982,Jorge Salazar,88.0,ND,Los Olivos,Desconocido,2021-03-23,381.16
+P0983,Elena López,,O,San Isidro,Pediatría,2020-07-03,350.55
+P0984,Lucía Salazar,23.0,ND,Surco,Traumatología,2024-07-07,375.3
+P0985,María Salazar,47.0,O,Callao,Traumatología,2021-11-26,489.93
+P0986,José Salazar,72.0,M,La Molina,Traumatología,2025-05-12,190.48
+P0987,Ana Ramírez,55.0,O,Cercado,Pediatría,2023-05-03,372.95
+P0988,María López,23.0,F,Desconocido,Ginecología,2022-12-03,346.65
+P0989,José Pérez,76.0,F,SJL,Traumatología,2021-04-30,
+P0990,Rosa Gómez,50.0,ND,La Molina,Pediatría,2024-03-16,447.6
+P0991,Rosa Salazar,29.0,F,San Isidro,Odontología,2025-05-06,
+P0992,Ana Pérez,80.0,M,Cercado,Ginecología,2024-12-17,
+P0993,Pedro Rojas,74.0,F,Callao,Pediatría,2024-06-21,456.86
+P0994,José Mendoza,80.0,F,San Isidro,Pediatría,2020-10-24,220.4
+P0995,Jorge Gómez,1.0,O,Callao,Medicina General,2022-12-26,252.6
+P0996,Pedro Vega,44.0,O,SJL,Pediatría,2021-03-31,301.52
+P0997,Lucía Rojas,5.0,O,La Molina,Pediatría,2020-11-15,
+P0998,Ana Rojas,73.0,M,San Isidro,Ginecología,2020-11-13,485.22
+P0999,Luis Rojas,1.0,M,Callao,Cardiología,2022-07-01,
+P1000,Jorge Salazar,34.0,M,La Molina,Odontología,2024-05-21,24.03
